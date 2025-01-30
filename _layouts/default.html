@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrapper">
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <nav class="site-nav">
+        <a class="page-link" href="{{ site.baseurl }}/articles/">Articles</a>
+        <a class="page-link" href="{{ site.baseurl }}/blog/">Blog</a>
+        <a class="page-link" href="{{ site.baseurl }}/cv/">CV</a>
+        <a class="page-link" href="{{ site.baseurl }}/about/">About</a>
+        <a class="page-link" href="{{ site.baseurl }}/projects/">Projects</a>
+      </nav>
+    </div>
+  </header>
+  <main class="page-content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+  <footer class="site-footer">
+    <div class="wrapper">
+      <p>{{ site.description }}</p>
+    </div>
+  </footer>
+</body>
+</html>
