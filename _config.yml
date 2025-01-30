@@ -34,7 +34,7 @@ description: >-
 
 # URL settings
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. https://example.com
+url: "https://alexiswck.github.io/Alexis-Werestchack/" # The base hostname & protocol for your site, e.g. https://example.com
 
 # Social media usernames
 github_username: AlexisWck
