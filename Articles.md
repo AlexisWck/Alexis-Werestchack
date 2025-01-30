@@ -43,12 +43,12 @@ Here is a list of papers I have written as part of my studies:
      This paper explores the transformation of Chechen militant groups from a nationalist to an Islamic nationalist orientation, focusing on the historical, social, and political factors driving this shift. Beginning with the secular Chechen Republic of Ichkeria in 1991, the movement gradually incorporated Islamic elements during the First Chechen War (1994-1996), fueled by foreign mujahideen and the ideological influence of Wahhabism. The Second Chechen War (1999-2000) further radicalized the struggle, as trauma, repression, and the decline of nationalist leadership paved the way for the rise of jihadist groups like the Caucasus Emirate. The 2010 Moscow Metro bombings exemplify the culmination of this Islamization, marked by the use of female suicide bombers and a shift from separatist to global jihadist objectives. The study highlights how socio-economic marginalization, war-related trauma, and external influences contributed to the radicalization process, ultimately transforming Chechen resistance into a transnational jihadist movement. This evolution underscores the complex interplay between nationalism, religion, and violence in post-Soviet conflicts.
     </p>
     <p>
-      **Language**: English  
-      <a href="/download/Chechen%20Rebellion%20-%20a%20radicalization%20process.pdf" download>Download PDF</a>  
+      **Language**: English 
+      <a href="{{ site.baseurl }}/download/Chechen%20Rebellion%20-%20a%20radicalization%20process.pdf" download>Download PDF</a> 
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="/images/chechen.jpg" alt="Chechen radicalization" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/images/chechen.jpg" alt="Chechen radicalization" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
@@ -67,11 +67,11 @@ Here is a list of papers I have written as part of my studies:
     </p>
     <p>
       **Language**: French  
-      <a href="/download/Syndicalisme%20Russe%20depuis%201990.pdf" download>Download PDF</a>  
+      <a href="{{ site.baseurl }}/download/Syndicalisme%20Russe%20depuis%201990.pdf" download>Download PDF</a>  
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="/images/syndicalisme_russe.jpg" alt="Syndicalisme Russe Illustration" style="max-width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/images/syndicalisme_russe.jpg" alt="Syndicalisme Russe Illustration" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
