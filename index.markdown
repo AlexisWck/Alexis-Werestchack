@@ -3,27 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Bienvenue sur mon site !
 ---
 
-# Bienvenue sur mon site !
 
-Je m'appelle Alexis Werestchack, et je suis étudiant en Master de Politique Publique et Développement Humain à l'Université de Maastricht. Ce site est un espace où je partage mes projets, mes réflexions et mes compétences techniques.
+My name is Alexis Werestchack, and I am a Master's student in Public Policy and Human Development at Maastricht University. This website is a space where I share my projects, papers, and a few blog notes.
 
-## Navigation
-- [À propos]({{ site.baseurl }}/about)
-- [CV]({{ site.baseurl }}/cv)
-- [Blog]({{ site.baseurl }}/blog)
-- [Projets]({{ site.baseurl }}/projects)
-- [Téléchargements]({{ site.baseurl }}/download)
-
-## Dernières actualités
-{% for post in site.posts limit:3 %}
-- [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-{% endfor %}
 
 ---
 
-### À propos de moi
-Je m'intéresse à la réduction de la pauvreté, aux politiques du marché du travail et à l'aide humanitaire, en particulier dans les zones de conflit. J'explore également l'intersection entre la politique et la technologie.
+### About my work
+My current research focuses on evaluating a cash transfer program in a refugee camp in Kenya using a quasi-experimental statistical approach. In parallel, I am developing an interactive tool to compare public student aid across Europe and working on a project that explores the relationship between income dynamics and far-right voting patterns.
 
-[En savoir plus sur moi]({{ site.baseurl }}/about)
+Through my work, I aim to provide data-driven insights that contribute to more effective social policies.
+
