@@ -25,11 +25,11 @@ Here is a list of papers I have written as part of my studies:
     </p>
     <p>
       **Language**: English  
-      <a href="/download/Impossible%20Dry%20January%20in%20France.pdf" download>Download PDF</a>  
+       <a href="{{ site.baseurl }}/download/Impossible%20Dry%20January%20in%20France.pdf" download>Download PDF</a>   
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="/images/dry_january.jpg" alt="Dry January Illustration" style="max-width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/images/dry_january.jpg" alt="Dry January Illustration" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
