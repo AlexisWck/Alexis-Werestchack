@@ -13,5 +13,5 @@ Une plateforme interactive permettant de comparer les systèmes d’aide aux ét
 - **🔗 Lien GitHub** : [Voir le projet](https://github.com/AlexisWck/europesocialstudentscheme.git)  
 - **🗺️ Lien vers la carte interactive** : [Voir la carte](https://alexiswck.github.io/europesocialstudentscheme/)
   <div style="flex: 1; text-align: center;">
-    <img src="/images/map.jpg" alt="Map illustration" style="max-width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/images/map.jpg" alt="Map illustration" style="max-width: 100%; height: auto;">
   </div>

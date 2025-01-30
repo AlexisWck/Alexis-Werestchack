@@ -9,11 +9,19 @@ title: Bienvenue sur mon site !
 
 My name is Alexis Werestchack, and I am a Master's student in Public Policy and Human Development at Maastricht University. This website is a space where I share my projects, papers, and a few blog notes.
 
-
+<br>
+<br>
 ---
-
+<br>
+<br>
 ### About my work
 My current research focuses on evaluating a cash transfer program in a refugee camp in Kenya using a quasi-experimental statistical approach. In parallel, I am developing an interactive tool to compare public student aid across Europe and working on a project that explores the relationship between income dynamics and far-right voting patterns.
 
 Through my work, I aim to provide data-driven insights that contribute to more effective social policies.
 
+<br>
+<br>
+
+<a href="https://www.linkedin.com/in/alexis-werestchack-8b599919b">
+  <img src="{{ site.baseurl }}/images/linkedin.jpg" alt="LinkedIn" width="50" height="50">
+</a>
