@@ -25,3 +25,6 @@ Through my work, I aim to provide data-driven insights that contribute to more e
 <a href="https://www.linkedin.com/in/alexis-werestchack-8b599919b">
   <img src="{{ site.baseurl }}/images/linkedin.jpg" alt="LinkedIn" width="50" height="50">
 </a>
+<a href="https://github.com/AlexisWck">
+  <img src="{{ site.baseurl }}/images/github.png" alt="GitHub" width="80" height="50">
+</a>

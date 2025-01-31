@@ -52,7 +52,25 @@ Here is a list of papers I have written as part of my studies:
   </div>
 </div>
 
+---
 
+#### The Economic Involvement of the Pasdaran in the Iranian Economy
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>
+      **Abstract**: 
+      The Islamic Revolutionary Guard Corps (IRGC) has evolved from a military force safeguarding the Islamic Republic into a dominant economic actor in Iran. Initially integrated into economic reconstruction after the Iran-Iraq War, the IRGC expanded its reach through privatization and state-backed favoritism, creating vast conglomerates across multiple sectors. It controls major industries, engages in black market activities, and benefits from political connections to secure contracts and evade sanctions. While its economic presence supports Iran’s "Resistance Economy" and ensures regime loyalty, it also fosters monopolization, corruption, and inefficiency. This paper examines the IRGC’s economic footprint, its impact on Iran’s economy, and its role in sustaining the political system.
+    </p>
+    <p>
+      **Language**: English 
+      <a href="{{ site.baseurl }}/download/Iran_Pasdaran_Economy.pdf" download>Download PDF</a> 
+    </p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+  <img src="{{ site.baseurl }}/images/pasdaran.jpg" alt="Pasdaran illustration" style="max-width: 100%; height: auto;">
+  </div>
+</div>
 
 ### 2023
 
