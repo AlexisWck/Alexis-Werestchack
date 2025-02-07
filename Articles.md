@@ -6,10 +6,29 @@ permalink: /articles/  # Optionnel : définit l'URL de la page
 
 ## My Papers
 
-Here is a list of papers I have written as part of my studies:
+Here is a list of papers I have written as part of my studies or as a personal endeavor:
 
 ### 2025
-
+#### Chatbots and Politics: Ideological Biases in AI? 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>
+      **Abstract**:  
+      Large Language Models (LLMs), such as ChatGPT, DeepSeek, and Grok, influence political discourse due to biases embedded in their training data and the design choices made by developers. Using the PolitiScales tool, this study examines the ideological tendencies of various AI chatbots by subjecting them to a political test. The results indicate a general inclination toward a social-liberal, progressive, and internationalist stance, although differences emerge on the economic axis. These tendencies stem from the selected training corpora, supervised fine-tuning processes, and the potential influence of the entities developing these models. While such biases may help moderate extremist discourse, they also raise significant democratic and ethical concerns. Ensuring algorithmic transparency and AI independence is crucial to preventing hidden political influence in these emerging forms of automated information.
+    </p>
+    <p>
+      **Language**: English  
+       <a href="{{ site.baseurl }}/download/Ideological_Bias_in_AI.pdf" download>Download PDF</a>   
+    </p>
+    <p>
+      **Language**: Français 
+       <a href="{{ site.baseurl }}/download/Biais_idéologiques_dans_l’IA.pdf" download>Download PDF</a>   
+    </p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="{{ site.baseurl }}/images/red_IA.jpg" alt="AI ideological Biases Illustration" style="max-width: 100%; height: auto;">
+  </div>
+</div>
 
 
 ### 2024

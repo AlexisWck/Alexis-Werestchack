@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/  # Optionnel : définit l'URL de la page
 ---
-
+[!Work in progress!]
 ## 📊 Plateforme de visualisation de données : Aides étudiantes en Europe  
 
 Une plateforme interactive permettant de comparer les systèmes d’aide aux étudiants à travers l’Europe.  
