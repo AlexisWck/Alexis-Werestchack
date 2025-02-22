@@ -10,6 +10,10 @@ title: Welcome on my personal website!
 My name is Alexis Werestchack, and I am a Master's student in Public Policy and Human Development at Maastricht University. This website is a space where I share my projects, papers, and a few blog notes.
 
 <br>
+
+<!-- Ajout de la photo -->
+<img src="{{ site.baseurl }}/images/profile.jpg" alt="Alexis Werestchack" width="200" style="border-radius: 50%; display: block; margin: auto;">
+
 <br>
 ---
 <br>
