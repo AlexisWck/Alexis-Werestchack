@@ -9,6 +9,27 @@ permalink: /articles/  # Optionnel : définit l'URL de la page
 Here is a list of papers I have written as part of my studies or as a personal endeavor:
 
 ### 2025
+
+
+#### Student Poverty in France: Making the Case for a Universal, Unconditional Approach 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>
+      **Abstract**:  
+      Student poverty in France is a persistent yet under-addressed issue. Despite alarming indicators—such as widespread food aid use and poor housing—support policies remain mostly targeted, relying on means-tested grants based on parental income. However, this approach often fails to capture students’ real living conditions, particularly when family solidarity is lacking. This position paper argues that a universal, unconditional student income would offer a more effective and equitable solution. While targeted aid appears more cost-efficient in theory, it is often inadequate in practice and politically fragile. In contrast, universal coverage guarantees a baseline of dignity for all students, enhances academic success by reducing reliance on precarious work, and fosters stronger political support. Reassessing the cost and behavioral objections, this paper shows that universalism offers not only greater adequacy and administrative simplicity, but also long-term societal returns—making it the most appropriate path to fight student poverty in France.
+    </p>
+    <p>
+      **Language**: English 
+       <a href="{{ site.baseurl }}/download/Student_Poverty_Universal_Unconditional_Approach.pdf" download>Download PDF</a> 
+    </p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="{{ site.baseurl }}/images/Student_Poverty.png" alt="Student Poverty Illustration" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
+---
+
 #### Chatbots and Politics: Ideological Biases in AI? 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
