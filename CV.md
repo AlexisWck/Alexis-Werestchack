@@ -6,7 +6,9 @@ permalink: /cv/  # Optionnel : définit l'URL de la page
 
 ## Curriculum Vitae
 
-**Master’s student in Public Policy and Human Development** at UNU-MERIT & Maastricht University, specializing in social protection, with additional expertise in international security (Sciences Po Paris). Experienced in international project management and the social and solidarity economy (Secours populaire français, On Purpose Paris). Seeking a position in an International Organization by July 2025 to contribute to fieldwork efforts, leveraging strong analytical skills (Excel, Python, Stata, R) and a deep understanding of international solidarity and social policies.
+Graduate in International Security from Sciences Po and currently pursuing a Master’s in Public Policy and Human Development at UNU-MERIT and Maastricht University, with a specialization in Social Protection. I am passionate about the design, evaluation, and forward-looking analysis of social policies, particularly in the areas of poverty reduction and development. I bring strong quantitative skills (Stata, R, SQL, Excel) combined with hands-on experience in project management within the social and solidarity economy. My academic training in the social sciences, with a strong quantitative focus, is complemented by six years of volunteer engagement with Secours populaire français, strengthening both my analytical rigor and adaptability. I am committed to using these tools to support inclusive and evidence-based public policy design.
+
+
 
 ---
 
@@ -56,6 +58,20 @@ Exchange student in the Departments of Economics, Management, and Statistics
 **Assistant Project Manager in International Solidarity**  
 - Production of an action report: designing the annual review of Secours populaire français’ actions in Europe.  
 - Project management: drafting concept notes, narrative reports, and grant applications (Erasmus accreditation form).
+
+---
+
+### ACADEMIC RESEARCH
+**06/2025 - 09/2025**
+**Research Assistant – UNU-MERIT & Maastricht University**
+
+Working with a professor on two academic article projects:
+
+• Pragmatic Leadership in Polarized Times: Lessons from Francis Blanchard’s ILO for Multilateralism Today
+→ Reviewing and summarizing key speeches and archival documents (in French and English) by Francis Blanchard, former Director-General of the International Labour Organization (ILO), to extract key themes and positions on international leadership and multilateralism.
+
+• External Financial Assistance and Technical Advisory Programmes in Egypt and Jordan
+→ Supporting a comparative study on how external financial assistance and technical advisory programmes shape social protection spending in Egypt and Jordan, through desk-based review of fiscal data, IMF reports, and donor strategies.
 
 ---
 

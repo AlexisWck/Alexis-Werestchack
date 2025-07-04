@@ -10,6 +10,25 @@ Here is a list of papers I have written as part of my studies or as a personal e
 
 ### 2025
 
+#### Technical memorandum - Reforming the AOV in Suriname 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>
+      **Abstract**:  
+      This memo assesses the adequacy, sustainability, and reform potential of Suriname’s universal pension scheme (AOV). Using IMF macro-fiscal projections and a microsimulation based on the 2022 Survey of Living Conditions, it compares the current system to a reform scenario (“AOV+”) that raises benefit levels and introduces automatic indexation.
+      
+      Findings show that the reform could reduce elderly poverty by 45%, with costs remaining below 2.2% of GDP. A hybrid financing model — combining general taxation and oil royalties — ensures long-term sustainability. The proposed reform is realistic, pro-poor, and aligned with Suriname’s economic transition.
+    </p>
+    <p>
+      **Language**: English 
+       <a href="{{ site.baseurl }}/download/Reforming_AOV_Surinam.pdf" download>Download PDF</a> 
+    </p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="{{ site.baseurl }}/images/AOV_Surinam.jpg" alt="AOV Illustration" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
 
 #### Student Poverty in France: Making the Case for a Universal, Unconditional Approach 
 <div style="display: flex; align-items: center;">

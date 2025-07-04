@@ -19,9 +19,15 @@ My name is Alexis Werestchack, and I am a Master's student in Public Policy and 
 <br>
 <br>
 ### About my work
-My current research focuses on evaluating a cash transfer program in a refugee camp in Kenya using a quasi-experimental statistical approach. In parallel, I am developing an interactive tool to compare public student aid across Europe and working on a project that explores the relationship between income dynamics and far-right voting patterns.
+My current research focuses on evaluating an unconditional cash transfer program in a refugee camp in Kenya using a quasi-experimental statistical approach. In parallel, I am developing an interactive tool to compare public student aid schemes across Europe and working on a project exploring the relationship between income dynamics and far-right voting patterns.
 
-Through my work, I aim to provide data-driven insights that contribute to more effective social policies.
+I am also contributing to two academic article projects:
+– one on pragmatic leadership in polarized times, drawing lessons from Francis Blanchard’s tenure at the International Labour Organization (ILO);
+– another on how external financial assistance and technical advisory programmes influence social protection spending in Egypt and Jordan.
+
+More broadly, I am interested in the design and financing of social protection systems, particularly in low- and middle-income countries. Through my work, I aim to provide data-driven insights that support the development of fairer and more effective social policies worldwide.
+
+
 
 <br>
 <br>
