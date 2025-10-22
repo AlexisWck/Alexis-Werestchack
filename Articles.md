@@ -29,6 +29,28 @@ Here is a list of papers I have written as part of my studies or as a personal e
   </div>
 </div>
 
+---
+
+#### Essay on the Financing of Defined-Benefit Social Insurance
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>
+      **Abstract**:  
+      This essay analyzes both the financing and the reform of defined-benefit (DB) social insurance schemes.
+      The first part reviews the main financing approaches—Pay-As-You-Go, Scaled Premium, General Average Premium, and Fully Funded methods—highlighting their implications for sustainability, intergenerational equity, and coverage. It concludes that mixed approaches often ensure the best balance between adequacy and financial stability.
+      The second part explores parametric reforms (e.g. retirement age, accrual rates, contribution ceilings) and systemic reforms, notably the shift toward Notional Defined-Contribution (NDC) models. These reforms aim to restore fiscal sustainability and fairness under demographic pressures but raise new challenges for benefit adequacy and social protection.
+    </p>
+    <p>
+      **Language**: English 
+       <a href="{{ site.baseurl }}/download/Essay_on_the_Financing.pdf" download>Download PDF</a> 
+    </p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="{{ site.baseurl }}/images/social_insurance.jpg" alt="AOV Illustration" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
+---
 
 #### Student Poverty in France: Making the Case for a Universal, Unconditional Approach 
 <div style="display: flex; align-items: center;">

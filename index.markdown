@@ -6,9 +6,14 @@ layout: home
 title: Welcome on my personal website!
 ---
 
+My name is Alexis Werestchack.
+Graduate in Public Policy and Human Development (specialization: Social Protection) from Maastricht University and UNU-MERIT, and in International Security from Sciences Po. I am passionate about the design, evaluation, and forward-looking analysis of social policies, particularly in the areas of poverty reduction and development.
 
-My name is Alexis Werestchack, and I am a Master's student in Public Policy and Human Development at Maastricht University. This website is a space where I share my projects, papers, and a few blog notes.
+I am currently Project Officer for International Solidarity with Secours populaire français in Antananarivo, Madagascar, supporting local partners like Fifanampiana Malagasy (CSM-FIFA) to strengthen their organizational, strategic, and administrative capacities, monitor multi-sectoral development projects, and promote youth-led initiatives.
 
+In parallel, I conduct applied research on social protection and development aid. I am developing an interactive tool to turn OECD CRS data into reproducible evidence on Social Protection, allowing custom classifications, visualizations, and comparisons across donors, recipients, and countries.
+
+I also contribute to academic work on pragmatic leadership in international organizations (lessons from Francis Blanchard at the ILO) and the impact of external financial assistance on social protection spending in Egypt and Jordan.
 <br>
 
 <!-- Ajout de la photo -->
@@ -16,21 +21,7 @@ My name is Alexis Werestchack, and I am a Master's student in Public Policy and 
 
 <br>
 ---
-<br>
-<br>
-### About my work
-My current research focuses on evaluating an unconditional cash transfer program in a refugee camp in Kenya using a quasi-experimental statistical approach. In parallel, I am developing an interactive tool to compare public student aid schemes across Europe and working on a project exploring the relationship between income dynamics and far-right voting patterns.
 
-I am also contributing to two academic article projects:
-– one on pragmatic leadership in polarized times, drawing lessons from Francis Blanchard’s tenure at the International Labour Organization (ILO);
-– another on how external financial assistance and technical advisory programmes influence social protection spending in Egypt and Jordan.
-
-More broadly, I am interested in the design and financing of social protection systems, particularly in low- and middle-income countries. Through my work, I aim to provide data-driven insights that support the development of fairer and more effective social policies worldwide.
-
-
-
-<br>
-<br>
 
 <a href="https://www.linkedin.com/in/alexis-werestchack-8b599919b">
   <img src="{{ site.baseurl }}/images/linkedin.jpg" alt="LinkedIn" width="50" height="50">

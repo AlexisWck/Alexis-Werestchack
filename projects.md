@@ -4,6 +4,21 @@ title: Projects
 permalink: /projects/  # Optionnel : définit l'URL de la page
 ---
 [!Work in progress!]
+## 🌐 Interactive Tool: OECD CRS Social Protection
+A lightweight, open tool to turn OECD CRS data into reproducible evidence on Social Protection (SP) across donors, recipients, and countries.
+
+- **📌 Description** : The OECD CRS offers granular data on Official Development Assistance (donors, recipients, amounts, purpose codes), but making it usable for SP analysis is challenging. This tool allows users to define SP flexibly, query the full CRS, download custom datasets (CSV/Parquet), and visualize trends, shares, and maps for any country or group.
+- **📌 Prototype delivers** :
+  - Interactive web map & charts: SP aid over time, country shares, donor/recipient rankings.
+  - Custom SP definition: select CRS purpose categories or keywords; ready-made presets provided (“Core SP”, “Expanded SP”).
+  - On-the-fly downloads and comparisons between countries or groups.
+- **🌍 Programming languages and data used** : Python, DuckDB, React, CSV, Parquet, JavaScript.
+- **🔗 GitHub Link** : [See project repository](#)  
+- **🎯 Deliverables** : Public website with interactive maps/charts, user-defined SP classifications, downloadable datasets; global analysis article with 20-year ODA trends to SP.
+- **👥 Beneficiaries** : Researchers, students, think tanks, policy teams — enabling transparent, reproducible, and shareable evidence on SP funding.
+
+
+---
 ## 📊 Interractive Map : Social Student Aid 
 An interactive tool that allows comparing the generosity of student aid systems across OECD countries.
 
